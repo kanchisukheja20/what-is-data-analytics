@@ -1,0 +1,2 @@
+data collection is a process of collecting structured ,unstructured 
+,uncleaned or cleaned information from multiple platform example kaggle etc

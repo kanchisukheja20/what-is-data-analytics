@@ -1,0 +1,1 @@
+data visulisation like power bi and tableau helps in showing the the data in a more organised way like charts , table, line charts, cards . these tools are widely used for clients and stakeholder
