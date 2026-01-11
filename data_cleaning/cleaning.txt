@@ -1,2 +1,24 @@
-data cleaning refers to using tools which helps in cleaning and filling blank spaces by identifying outliers
+Data cleaning means preparing raw data so it is accurate, consistent, and usable.
+Most real-world data contains errors, missing values, duplicates, or inconsistent formats, which can lead to wrong analysis if not fixed.
 
+The purpose of data cleaning is to make sure the data can be trusted before analysis, reporting, or decision-making.
+
+Main uses
+
+Reliable analysis and reports
+
+Correct business decisions
+
+Better models and forecasts
+
+Common tools
+
+Excel – basic and small-scale cleaning
+
+SQL – cleaning data stored in databases
+
+Python (Pandas) – large, real-world datasets
+
+Power BI / Tableau – light cleaning before reporting
+
+In simple terms: clean data first, analyze later.

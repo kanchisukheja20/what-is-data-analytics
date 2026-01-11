@@ -1,3 +1,24 @@
-data forecasting is a process of viewing data and predicting its next 5 or 10 years sales using trendline ,line chart, formulas using quick measure
+Data forecasting means using past data to predict future outcomes.
+It focuses on identifying patterns and trends in historical data to estimate what is likely to happen next.
 
+The purpose of data forecasting is to support planning and decision-making by reducing uncertainty about the future.
 
+Main uses
+
+Sales and demand planning
+
+Budgeting and financial planning
+
+Inventory and resource management
+
+Risk assessment
+
+Common tools
+
+Excel – simple trend and forecast functions
+
+Python – statistical and time-series models
+
+SQL – preparing historical data
+
+Power BI / Tableau – displaying forecast results

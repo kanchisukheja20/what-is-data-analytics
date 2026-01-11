@@ -1,2 +1,28 @@
-data collection is a process of collecting structured ,unstructured 
-,uncleaned or cleaned information from multiple platform example kaggle etc
+ data collection is a process of collecting structured ,unstructured 
+,uncleaned or cleaned information from multiple platform example kaggle etc.
+It means gathering raw data from different sources for analysis.
+It is the first step of any data-related work, and the quality of analysis depends heavily on how the data is collected.
+
+The purpose of data collection is to ensure that the data is relevant, reliable, and sufficient for answering a question or solving a problem.
+
+Main uses
+
+Understanding situations or trends
+
+Supporting analysis and reporting
+
+Making business or operational decisions
+
+Common tools & sources
+
+Surveys & forms – primary data from users or customers
+
+Databases (SQL) – structured organizational data
+
+Excel / CSV files – stored or shared data
+
+APIs & web data – automated data extraction
+
+Internal systems – ERP, CRM, finance, sales systems
+
+In simple terms: collect the right data first, then clean and analyze it.

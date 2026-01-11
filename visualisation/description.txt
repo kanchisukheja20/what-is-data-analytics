@@ -1,1 +1,23 @@
-data visulisation like power bi and tableau helps in showing the the data in a more organised way like charts , table, line charts, cards . these tools are widely used for clients and stakeholder
+data visulisation like power bi and tableau helps in showing the the data in a more organised way like charts , table, line charts, cards . these tools are widely used for clients and stakeholder.
+
+It means presenting data in a visual form so it is easy to understand and interpret.
+Instead of looking at raw numbers, data is shown using charts, graphs, or dashboards.
+
+The purpose of data visualization is to communicate insights clearly, identify patterns, and support decision-making.
+
+Main uses
+
+Understanding trends and comparisons
+
+Communicating insights to non-technical people
+
+Supporting business decisions
+
+Monitoring performance
+
+Common tools
+
+Excel – basic charts and graphs
+Power BI / Tableau – dashboards and interactive visuals
+
+Python (Matplotlib, Seaborn) – custom visualizations
